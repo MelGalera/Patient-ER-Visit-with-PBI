@@ -4,7 +4,7 @@
 <br>
 
 <div class = "clear-fix">
-  <img src="assets/images/hospital_img.png" style="float:right;width:450px;margin-left:50px;margin-bottom:15px;"/>
+  <img src="assets/images/ed_img.jpg" style="float:right;width:450px;margin-left:50px;margin-bottom:15px;"/>
   <h4> Description </h4>
   <p align= "justify" > Hospitals are important in Australia’s health care system providing medical care to millions of Australia every year. There are private and public hospitals in Australia. </p>
   <ul>
@@ -32,7 +32,7 @@
 
 <br>
 
-*Image by [Freepik](https://www.freepik.com/).*
+*Image by DC Studio on [Freepik](https://www.freepik.com/).*
 
 ***
 <br>
