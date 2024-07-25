@@ -20,7 +20,7 @@
 
 #### Functionality
 
-The dashboard provides insights into the number of patients visiting the emergency room based on:
+The dashboard provides insights into the number of patients visiting the emergency room in 2019-2020 based on:
 
 *a. Timeframe*
 
