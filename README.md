@@ -1,4 +1,4 @@
-# Patients Emergency Room Visit Report using Power BI
+# Patients Emergency Room Visit Dashboard using Power BI
 
 ***
 <br>
