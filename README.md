@@ -64,15 +64,19 @@ Both the average waiting time and satisfaction rate can be filtered by age group
 <br>
 
 #### Preview
+<br>
 
+Selected time: *AM and PM* | Selected category: *Avg. Satisfaction*
 ![](images/Image_01_ER.jpg)
 
 <br>
 
+Selected time: *AM* | Selected category: *Avg. Wait Time*  | Selected Patient race: *Asian*
 ![](images/Image_02_ER.jpg)
 
 <br>
 
+Selected time: *PM* | Selected category: *Avg. Satisfaction*  | Selected Patient age group : *41-50*
 ![](images/Image_03_ER.jpg)
 
 <br>
