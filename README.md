@@ -6,13 +6,12 @@
 <div class = "clear-fix">
   <img src="assets/images/ed_img.jpg" style="float:right;width:450px;margin-left:50px;margin-bottom:15px;"/>
   <h4> Description </h4>
-  <p align= "justify" > Hospitals are important in Australia’s health care system providing medical care to millions of Australia every year. There are private and public hospitals in Australia. </p>
+  <p align= "justify" > This patient visits to emergency room dashboard exemplifies a healthcare analytic tool that is an essential resource for: </p>
   <ul>
-  <li align= "justify"> Private hospitals - owned and managed by private organizations (some non-profit) and funded by charges to patients often subsidized by government and private health insurance </li>
-  <li align= "justify"> Public hospitals - largely owned and managed by state and territory governments with funding from the Australian government. </li>
+  <li align= "justify"> tracking and understanding patient flow for resource planning and utilization to prevent overcrowding, identify potential bottlenecks, and aid workforce (staffing) management </li>
+  <li align= "justify"> improving patient care and facilitate quick triage </li>
+  <li align= "justify"> identifying areas for experience improvement from patient satisfaction feedback </li>
   </ul>
-  <p align= "justify"> Any person with ‘medicard’ can access public hospital services free of charge as a public patient on the basis of clinical need and within a clinically approved period.  Such services can be admitted services, non-admitted services, or emergency department (ED) services.  </p>
-  <p align= "justify"> This dashboard shows relevant information on recognized and approved public hospitals in Australia, such as the number of beds and available services. The ‘mapping’ option shows the location and details of the public hospitals with filterable options. The drop-down menu can be used to filter for state or territory.   </p>
 </div>
 
 
@@ -21,15 +20,42 @@
 
 #### Functionality
 
-**A. Dashboard**
+The dashboard provides insights into the number of patients visiting the emergency room based on:
+
+*a. Timeframe*
+
+- Total number of patients up-to-date
+-	Total patients by year or month
+-	Total patients visiting during mornings or afternoons
+-	Total patients visiting during weekdays or weekends
+
+*b. Demographics*
+
+-	Breakdown of patients by gender
+-	Total patients by age group
+-	Total patients by race
+
+*c. Category*
+
+-	Total patients by department referral
+-	Percentage of referred and walk-in patients
+-	Percentage of patients by administrative and non-administrative appointments
+
+The dashboard also includes:
+
+- *Average Waiting Time*: Based on the selected filters.
+-	*Average Satisfaction Rate*: Based on responses to the satisfaction survey, with the percentage of completed surveys shown as ‘service rated’.
+
+Both the average waiting time and satisfaction rate can be filtered by age group and patient race.
+
 
 <br>
 
 
 ***Data source***
 
-* The data was sourced from Australian Institute of Health and Welfare (AIHW) webpage, "Hospital resources 2021-2022 data tables", released December 2023 at [https://www.aihw.gov.au/reports-data/myhospitals/content/data-downloads](https://www.aihw.gov.au/reports-data/myhospitals/content/data-downloads)
-
+* The data used in this dashboard is sourced from a learning video by "Data with Decision" and can be sourced here: [https://drive.google.com/file/d/1h7SHRhKeP9jP1axeYRtKg-TE3UldhiYx/view](https://drive.google.com/file/d/1h7SHRhKeP9jP1axeYRtKg-TE3UldhiYx/view)
+  
 <br>
 
 *Image by DC Studio on [Freepik](https://www.freepik.com/).*
